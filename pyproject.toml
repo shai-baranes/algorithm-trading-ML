@@ -1,0 +1,17 @@
+[project]
+name = "algorithm-trading-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "datetime>=5.5",
+    "matplotlib>=3.10.3",
+    "notebook>=7.4.2",
+    "numpy==1.26.3",
+    "pandas>=2.2.3",
+    "pandas-datareader>=0.10.0",
+    "pandas-ta>=0.3.14b0",
+    "statsmodels>=0.14.4",
+    "yfinance>=0.2.61",
+]
